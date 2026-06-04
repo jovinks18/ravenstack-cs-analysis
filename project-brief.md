@@ -1,0 +1,5 @@
+# Project Brief
+
+This project analyzes a 500-account B2B SaaS book ($11.8M active ARR, $3M historical churn) to identify churn drivers, prioritize retention efforts, and recommend an operating model for the CS team. I built a v1 customer health score using standard behavioral signals (usage, support, tenure, engagement, commercial posture) and stress-tested it against historical churn outcomes. The score showed weak predictive lift, which triggered a deeper diagnostic: 88% of churned ARR was driven by pricing, product gaps, and competitive losses, not by behavioral signals CS could observe. Headline recommendation: reorient CS from individual-account saves toward (1) a structured win-back program against the 79% reactivation rate, (2) churn-evidence influence on product and pricing roadmap, and (3) renewal-stage intervention for tenured accounts. Deliverables: executive summary, QBR deck, customer health framework, and a CS operating model recommendation.
+
+*Note: dataset is synthetic (RavenStack by Rivalytics on Kaggle). Some behavioral churn signal is muted, which itself became part of the analytical story.*
