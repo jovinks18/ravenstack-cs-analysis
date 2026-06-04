@@ -7,6 +7,9 @@
 **Dataset:** [RavenStack](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset) (synthetic B2B SaaS, multi-table) by Rivalytics on Kaggle
 
 ---
+![Customer Success Dashboard](deliverables/dashboard.png)
+
+---
 
 ## 1. Why this project exists
 
