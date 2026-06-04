@@ -2,8 +2,11 @@
 ### A Customer Success operating framework built on B2B SaaS churn data
 
 **Author:** Jovin
+
 **Role focus:** Customer Success Manager / Customer Success Operations
+
 **Time invested:** ~6 hours
+
 **Dataset:** [RavenStack](https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset) (synthetic B2B SaaS, multi-table) by Rivalytics on Kaggle
 
 ---
